@@ -1,0 +1,12 @@
+.form-container {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+#title {
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+#goal-input {
+  padding: 8px 5px;
+}
